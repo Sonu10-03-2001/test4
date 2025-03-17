@@ -16,6 +16,7 @@ public class Test4Application {
 	        char xx = 's';
 		int x = 100; 
 		int y = 200;
+		String x = "sonu Kumar";
 
 			SpringApplication.run(Test4Application.class, args);
 	}
